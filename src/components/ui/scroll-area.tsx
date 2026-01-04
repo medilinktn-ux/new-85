@@ -1,7 +1,7 @@
 import React from 'react';
 
-const ScrollArea = () => {
+function ScrollArea() {
   return <div>Scroll Area</div>;
-};
+}
 
 export default ScrollArea;

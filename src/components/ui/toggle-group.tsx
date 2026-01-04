@@ -1,7 +1,7 @@
 import React from 'react';
 
-const ToggleGroup = () => {
+function ToggleGroup() {
   return <div>Toggle Group</div>;
-};
+}
 
 export default ToggleGroup;

@@ -1,7 +1,7 @@
 import React from 'react';
 
-const InputOtp = () => {
+function InputOtp() {
   return <div>Input Otp</div>;
-};
+}
 
 export default InputOtp;

@@ -1,7 +1,7 @@
 import React from 'react';
 
-const Label = () => {
+function Label() {
   return <div>Label</div>;
-};
+}
 
 export default Label;

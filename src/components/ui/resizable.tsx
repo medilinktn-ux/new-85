@@ -1,7 +1,7 @@
 import React from 'react';
 
-const Resizable = () => {
+function Resizable() {
   return <div>Resizable</div>;
-};
+}
 
 export default Resizable;

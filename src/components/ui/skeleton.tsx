@@ -1,7 +1,7 @@
 import React from 'react';
 
-const Skeleton = () => {
+function Skeleton() {
   return <div>Skeleton</div>;
-};
+}
 
 export default Skeleton;

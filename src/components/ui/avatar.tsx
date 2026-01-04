@@ -1,7 +1,7 @@
 import React from 'react';
 
-const Avatar = () => {
+function Avatar() {
   return <div>Avatar</div>;
-};
+}
 
 export default Avatar;

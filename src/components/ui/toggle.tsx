@@ -1,7 +1,7 @@
 import React from 'react';
 
-const Toggle = () => {
+function Toggle() {
   return <div>Toggle</div>;
-};
+}
 
 export default Toggle;

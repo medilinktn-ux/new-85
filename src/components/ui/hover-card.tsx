@@ -1,7 +1,7 @@
 import React from 'react';
 
-const HoverCard = () => {
+function HoverCard() {
   return <div>Hover Card</div>;
-};
+}
 
 export default HoverCard;

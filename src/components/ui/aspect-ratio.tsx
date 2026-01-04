@@ -1,7 +1,7 @@
 import React from 'react';
 
-const AspectRatio = () => {
+function AspectRatio() {
   return <div>Aspect Ratio</div>;
-};
+}
 
 export default AspectRatio;

@@ -1,7 +1,7 @@
 import React from 'react';
 
-const Sheet = () => {
+function Sheet() {
   return <div>Sheet</div>;
-};
+}
 
 export default Sheet;

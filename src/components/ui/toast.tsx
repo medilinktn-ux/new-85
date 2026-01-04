@@ -1,7 +1,7 @@
 import React from 'react';
 
-const Toast = () => {
+function Toast() {
   return <div>Toast</div>;
-};
+}
 
 export default Toast;

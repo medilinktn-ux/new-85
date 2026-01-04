@@ -1,7 +1,7 @@
 import React from 'react';
 
-const Dialog = () => {
+function Dialog() {
   return <div>Dialog</div>;
-};
+}
 
 export default Dialog;

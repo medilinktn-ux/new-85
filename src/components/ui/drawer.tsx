@@ -1,7 +1,7 @@
 import React from 'react';
 
-const Drawer = () => {
+function Drawer() {
   return <div>Drawer</div>;
-};
+}
 
 export default Drawer;

@@ -1,7 +1,7 @@
 import React from 'react';
 
-const DropdownMenu = () => {
+function DropdownMenu() {
   return <div>Dropdown Menu</div>;
-};
+}
 
 export default DropdownMenu;

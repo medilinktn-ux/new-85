@@ -1,7 +1,7 @@
 import React from 'react';
 
-const Collapsible = () => {
+function Collapsible() {
   return <div>Collapsible</div>;
-};
+}
 
 export default Collapsible;

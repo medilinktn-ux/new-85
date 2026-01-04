@@ -1,7 +1,7 @@
 import React from 'react';
 
-const Badge = () => {
+function Badge() {
   return <div>Badge</div>;
-};
+}
 
 export default Badge;

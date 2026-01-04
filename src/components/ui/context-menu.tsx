@@ -1,7 +1,7 @@
 import React from 'react';
 
-const ContextMenu = () => {
+function ContextMenu() {
   return <div>Context Menu</div>;
-};
+}
 
 export default ContextMenu;

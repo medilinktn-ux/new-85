@@ -1,6 +1,6 @@
 {
-  "short_name": "Project",
-  "name": "Project",
+  "short_name": "New 85",
+  "name": "New 85",
   "icons": [
     {
       "src": "vite.svg",
@@ -8,8 +8,8 @@
       "type": "image/svg+xml"
     }
   ],
-  "start_url": "./",
+  "start_url": ".",
   "display": "standalone",
-  "theme_color": "#ffffff",
+  "theme_color": "#000000",
   "background_color": "#ffffff"
 }

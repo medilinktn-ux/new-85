@@ -1,7 +1,7 @@
 import React from 'react';
 
-const Breadcrumb = () => {
+function Breadcrumb() {
   return <div>Breadcrumb</div>;
-};
+}
 
 export default Breadcrumb;

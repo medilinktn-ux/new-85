@@ -1,7 +1,7 @@
 import React from 'react';
 
-const Progress = () => {
+function Progress() {
   return <div>Progress</div>;
-};
+}
 
 export default Progress;
